@@ -17,13 +17,13 @@ I am currently in my honours year, focusing on a project in secure coding with L
 
 🔍 Honours Year Project: Exploring the world of secure coding with Language Models.
 
-## Connect with Me
+<!-- ## Connect with Me
 
 Feel free to connect with me! Let's discuss coding, security, or anything tech-related.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yinghao-zhang)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com) -->
 
 ## GitHub Stats
 

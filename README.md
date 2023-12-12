@@ -27,5 +27,5 @@ Feel free to connect with me! Let's discuss coding, security, or anything tech-r
 
 ## GitHub Stats
 
-![Yinghao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Yinghao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hznkyh&show_icons=true&theme=github_dark)
 

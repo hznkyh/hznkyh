@@ -14,10 +14,10 @@ I am currently in my honours year, focusing on a project in secure coding with L
 - **Research Interests:** Secure Coding, Language Models, Software Engineering
 
 ## Past Projects
-[Web Chat System](https://github.com/hznkyh/UWA_FAQ_web_chat_system/tree/main)
-[Quiz System](https://github.com/hznkyh/student-quiz-system)
-[Web MTD Simulator](https://github.com/hznkyh/Web_MTD_Sim)
-[Autonomous Boat](https://github.com/hznkyh/autonomous-boat)
+- [Web Chat System](https://github.com/hznkyh/UWA_FAQ_web_chat_system/tree/main)
+- [Quiz System](https://github.com/hznkyh/student-quiz-system)
+- [Web MTD Simulator](https://github.com/hznkyh/Web_MTD_Sim)
+- [Autonomous Boat](https://github.com/hznkyh/autonomous-boat)
 
 ## Current Projects
 

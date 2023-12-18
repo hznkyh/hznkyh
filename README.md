@@ -18,6 +18,7 @@ I am currently in my honours year, focusing on a project in secure coding with L
 - [Quiz System](https://github.com/hznkyh/student-quiz-system)
 - [Web MTD Simulator](https://github.com/hznkyh/Web_MTD_Sim)
 - [Autonomous Boat](https://github.com/hznkyh/autonomous-boat)
+- Entropy-based Selective Homomorphic Encryption for Smart Metering Systems" in Proc. of the 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
 
 ## Current Projects
 

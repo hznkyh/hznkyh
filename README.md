@@ -26,8 +26,10 @@ I am currently in my honours year, focusing on a project in secure coding with L
 
 🔍 Honours Year Project: Exploring the world of secure coding with Language Models.
 
-
 ## GitHub Stats
 
 ![Yinghao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hznkyh&show_icons=true&theme=github_dark)
 
+## Reach Me
+- **Email:** hznkyh02@gmail.com
+- **LinkedIn:** www.linkedin.com/in/hank-zhang-1767532a9

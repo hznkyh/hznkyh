@@ -31,5 +31,5 @@ I am currently in my honours year, focusing on a project in secure coding with L
 ![Yinghao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hznkyh&show_icons=true&theme=github_dark)
 
 ## Reach Me
-- **Email:** hznk.yh02@gmail.com
+- **Email:** hank.yh02@gmail.com
 - **LinkedIn:** www.linkedin.com/in/yinghao-hank-zhang

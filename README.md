@@ -1,4 +1,4 @@
-# Hi there, I'm Yinghao Zhang, but you can call me Hank! 👋
+# Hi there, I'm Hank! 👋
 
 🎓 Studying at the University of Western Australia  
 👨‍💻 Bachelor of Philosophy (Honours) in Computer Science and Engineering Science (Software Engineering)  

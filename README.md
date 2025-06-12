@@ -10,7 +10,8 @@ I am currently in my honours year, focusing on a project in secure coding with L
 ## Skills
 
 - **Programming Languages:** Python, Java, JavaScript
-- **Web Technologies:** HTML, CSS
+- **Web:** React, Vue, HTML, CSS
+- **Cloud:** Azure
 - **Research Interests:** Secure Coding, Language Models, Software Engineering
 
 ## Past Projects
